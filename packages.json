@@ -7,5 +7,9 @@
     "package": "biobouncer",
     "url": "https://github.com/samuelbharti/biobouncer",
     "subdir": "pkg-r"
+  },
+  {
+    "package": "biohttp",
+    "url": "https://github.com/samuelbharti/biohttp"
   }
 ]
