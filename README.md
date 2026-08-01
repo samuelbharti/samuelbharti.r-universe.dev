@@ -15,12 +15,13 @@ served at:
 | --- | --- |
 | `peacock` | [samuelbharti/peacock](https://github.com/samuelbharti/peacock) |
 | `biobouncer` | [samuelbharti/biobouncer](https://github.com/samuelbharti/biobouncer) (`pkg-r/` subdir) |
+| `biohttp` | [samuelbharti/biohttp](https://github.com/samuelbharti/biohttp) |
 
 ## Installing packages from this universe
 
 ```r
 install.packages(
-  c("peacock", "biobouncer"),
+  c("peacock", "biobouncer", "biohttp"),
   repos = c(
     "https://samuelbharti.r-universe.dev",
     "https://cloud.r-project.org"
