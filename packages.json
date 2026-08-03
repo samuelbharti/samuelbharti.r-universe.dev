@@ -11,5 +11,10 @@
   {
     "package": "biohttp",
     "url": "https://github.com/samuelbharti/biohttp"
+  },
+  {
+    "package": "bioclients",
+    "url": "https://github.com/samuelbharti/bioclients",
+    "subdir": "pkg-r"
   }
 ]
