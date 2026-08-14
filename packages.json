@@ -16,5 +16,10 @@
     "package": "bioclients",
     "url": "https://github.com/samuelbharti/bioclients",
     "subdir": "pkg-r"
+  },
+  {
+    "package": "plotomics",
+    "url": "https://github.com/samuelbharti/plotomics",
+    "subdir": "pkg-r"
   }
 ]
