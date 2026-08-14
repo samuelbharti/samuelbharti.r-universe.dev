@@ -17,12 +17,13 @@ served at:
 | `biobouncer` | [samuelbharti/biobouncer](https://github.com/samuelbharti/biobouncer) (`pkg-r/` subdir) |
 | `biohttp` | [samuelbharti/biohttp](https://github.com/samuelbharti/biohttp) |
 | `bioclients` | [samuelbharti/bioclients](https://github.com/samuelbharti/bioclients) (`pkg-r/` subdir) |
+| `plotomics` | [samuelbharti/plotomics](https://github.com/samuelbharti/plotomics) (`pkg-r/` subdir) |
 
 ## Installing packages from this universe
 
 ```r
 install.packages(
-  c("peacock", "biobouncer", "biohttp", "bioclients"),
+  c("peacock", "biobouncer", "biohttp", "bioclients", "plotomics"),
   repos = c(
     "https://samuelbharti.r-universe.dev",
     "https://cloud.r-project.org"
