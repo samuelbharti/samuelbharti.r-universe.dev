@@ -1,7 +1,8 @@
 [
   {
     "package": "peacock",
-    "url": "https://github.com/samuelbharti/peacock"
+    "url": "https://github.com/samuelbharti/peacock",
+    "subdir": "pkg-r"
   },
   {
     "package": "biobouncer",
