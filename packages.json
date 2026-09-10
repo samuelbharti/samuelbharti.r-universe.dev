@@ -22,5 +22,10 @@
     "package": "plotomics",
     "url": "https://github.com/samuelbharti/plotomics",
     "subdir": "pkg-r"
+  },
+  {
+    "package": "biocohort",
+    "url": "https://github.com/samuelbharti/biocohort",
+    "subdir": "pkg-r"
   }
 ]
