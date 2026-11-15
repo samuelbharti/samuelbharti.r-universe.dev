@@ -27,5 +27,10 @@
     "package": "biocohort",
     "url": "https://github.com/samuelbharti/biocohort",
     "subdir": "pkg-r"
+  },
+  {
+    "package": "bslibreact",
+    "url": "https://github.com/samuelbharti/bslibreact",
+    "subdir": "pkg-r"
   }
 ]
